@@ -1,16 +1,18 @@
 ### Hi there 👋
+My name is Victory, a self-taught data analyst
 
-<!--
-**Victoryolurotimi/Victoryolurotimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Transitioned to tech March 2022 ✨
 
-Here are some ideas to get you started:
+✨Taught myself python, tableau, SQL ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  🌱 I’m currently 
+         brushing up my skills on data wrangling and cleaning using python.
+         
+📫 How to reach me:
+
+ [LinkedIn](https://www.linkedin.com/in/victory-olurotimi-84625b244)
+      
+
+⚡ Fun fact: I love working with data and using python to work with data is a huge interest for me.
+
